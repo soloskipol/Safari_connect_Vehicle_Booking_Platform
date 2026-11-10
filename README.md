@@ -4,8 +4,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 Safari Connect is an end-to-end data analytics project for a bus transportation company operating across Kenya. The project covers the full workflow from data loading and cleaning in PostgreSQL/pgAdmin to interactive analysis and visualization in Power BI.
 
 The cleaned data is stored in PostgreSQL and connected to Power BI, allowing the Power BI report to be refreshed from the database when the underlying data is updated. The fully interactive dashboard uses slicers and visual interactions to explore revenue, route performance, driver performance, passenger patterns, cancellations, and operational activity.
